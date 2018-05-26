@@ -1,0 +1,6 @@
+print("Hello and welcome to toplister.py")
+print("This is just an experiment to teach Rasmus some python")
+print("")
+print("Please enter your name bellow: ")
+name = input()
+print ("Wellcome %s I hope you will enjoy toplister.py" % name)
