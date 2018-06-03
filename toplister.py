@@ -3,8 +3,8 @@ from classes.comparer import Comparer
 from json_parser import parse_songs_from_json
 from json_parser import write_songs_to_json
 
-inputFile = "songs_example.json"
-outputFile = "test_output.json"
+inputFile = "big_songlist.json"
+outputFile = "big_songlist.json"
 
 
 def getSongText(song):
