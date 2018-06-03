@@ -80,8 +80,3 @@ def write_songs_to_json(song_list, path):
 
     with open(path, "w") as outfile:
         json.dump(temp, outfile, sort_keys=False, indent=4)
-
-
-song_objects = []
-parse_songs_from_json(song_objects, "songs_example.json")
-write_songs_to_json(song_objects, "test_output.json")
