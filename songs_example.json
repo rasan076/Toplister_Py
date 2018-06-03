@@ -1,0 +1,57 @@
+{
+    "songs": [
+        {
+            "id": 10001000101,
+            "title": "Paradise (What About Us?)",
+            "artists": {
+                "main_artists": [
+                    {
+                        "name": "Within Temptation",
+                        "country": "The Netherlands"
+                    }
+                ],
+                "featuring": [
+                    {
+                        "name": "Tarja Turunen",
+                        "country": "Finland"
+                    }
+                ]
+            },
+            "release_year": 2013,
+            "genre": "metal"
+        },
+        {
+            "id": 10001000102,
+            "title": "Joyride",
+            "artists": {
+                "main_artists": [
+                    {
+                        "name": "Roxette",
+                        "country": "Sweden"
+                    }
+                ]
+            },
+            "release_year": 1991,
+            "genre": "pop rock"
+        },
+        {
+            "id": 10001000103,
+            "title": "Airplanes",
+            "artists": {
+                "main_artists": [
+                    {
+                        "name": "B.o.B",
+                        "country": "USA"
+                    }
+                ],
+                "featuring": [
+                    {
+                        "name": "Hayley Williams",
+                        "country": "USA"
+                    }
+                ]
+            },
+            "release_year": 2010
+        }
+    ]
+}
